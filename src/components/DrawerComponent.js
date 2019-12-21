@@ -14,6 +14,7 @@ export default function DrawerComponent() {
 
   return(
     <Drawer
+      width={300}
       visible={drawerVisible}
       title="SIG-Sal"
       mask={false}
