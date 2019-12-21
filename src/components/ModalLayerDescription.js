@@ -46,7 +46,7 @@ export default function ModalLayerDescription() {
       title={generateTitle()}
     >
       <Descriptions column={1} >
-        <Item label="Títutlo" >Salinas Apodi-Mossoró</Item>
+        <Item label="Título" >Salinas Apodi-Mossoró</Item>
         <Item label="Geometria">Polygon</Item>
         <Item label="Criado em">21 de Dezembro de 2019</Item>
         <Item label="Última alteração">21 de Dezembro de 2019</Item>

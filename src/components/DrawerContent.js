@@ -43,7 +43,7 @@ export default function TabLayers() {
           avatarStyle = { backgroundColor: '#87d068' };
           break;
         case "FeatureCollection":
-          avatarStyle = { backgroundColor: '#7159d1' }
+          avatarStyle = { backgroundColor: '#f00' }
           break;
         default:
           avatarStyle = {}
