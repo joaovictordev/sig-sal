@@ -46,10 +46,10 @@ export default function ModalLayerDescription() {
       title={generateTitle()}
     >
       <Descriptions column={1} >
-        <Item label="Títutlo" >Layer1</Item>
+        <Item label="Títutlo" >Salinas Apodi-Mossoró</Item>
         <Item label="Geometria">Polygon</Item>
-        <Item label="Criado em">24 de Dezembro de 2019</Item>
-        <Item label="Última alteração">24 de Dezembro de 2019</Item>
+        <Item label="Criado em">21 de Dezembro de 2019</Item>
+        <Item label="Última alteração">21 de Dezembro de 2019</Item>
         <Item label="Privacidade"> Público </Item>
       </Descriptions>
     </Modal>
