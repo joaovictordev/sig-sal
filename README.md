@@ -1,5 +1,5 @@
 <h1 align="center">
-YOUR_PROJECT_NAME
+React Native Layout
 </h1>
 
-<img src="https://drive.google.com/file/d/15n7tdK778a6VSZi_bsfqAEjB7gfvw4bS/view?usp=sharing" alt="demo" height="450">
+<img src="https://drive.google.com/file/d/15n7tdK778a6VSZi_bsfqAEjB7gfvw4bS" alt="demo" height="450">
