@@ -1,5 +1,1 @@
-<h1 align="center">
-React Native Layout
-</h1>
-
-<img src="https://drive.google.com/file/d/15n7tdK778a6VSZi_bsfqAEjB7gfvw4bS" alt="demo" height="450">
+![Demo](https://res.cloudinary.com/dqqrsraas/image/upload/v1611888804/sigsal-gif_wm0qmg.gif)
